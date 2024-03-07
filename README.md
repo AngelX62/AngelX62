@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm Christopher Hanryan</h1>
-<h3 align="center">Computer Science student who loves to learn about AI, ML, and DL</h3>
+<h1 align="center">Hey 👋 What's up?</h1>
 
-- 🌱 I’m currently learning **Pandas, Matplotplib, and DS/ML**
+###
 
-- 💬 Ask me about **Python and Java**
+<p align="center">My name is Christopher Hanryan and I am a computer science student who loves to learn about AI, Ml, and DL.</p>
 
-- 📫 How to reach me **chris.hanryan04@gmail.com**
+###
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wv9-VeFzRqydpYmMNiiLXGp19tHrqsbe/view?usp=sharing](https://drive.google.com/file/d/1wv9-VeFzRqydpYmMNiiLXGp19tHrqsbe/view?usp=sharing)
+<h2 align="left">About me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/christopherhanryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopherhanryan" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">📚 I'm currently learning Pandas, SQL, Matplotlib, and DS/ML<br><br>🎯 Ask me about Python, Java, or AI!<br><br>🎲 Know about my experiences: https://drive.google.com/file/d/1wv9-VeFzRqydpYmMNiiLXGp19tHrqsbe/view?usp=sharing<br><br>How to reach me: chris.hanryan04@gmail.com</p>
+
+###
+
+<p align="center">Connect with me!</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/christopherhanryan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
 
