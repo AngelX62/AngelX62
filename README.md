@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Christopher Hanryan and I am a computer science student who loves to learn about AI, Ml, and DL.</p>
+<p align="center">My name is Christopher Hanryan and I am a computer science student who loves to learn about AI, ML, and DL.</p>
 
 ###
 
